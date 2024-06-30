@@ -1,6 +1,10 @@
-Our project is a smartphone controlled robot that cleans your house's floor! The mop attached on the front of the robot can do the job perfectly. 
+Our project is a smartphone-controlled robot that cleans your house's floor! The mop attached on the front of the robot can do the job perfectly. 
 
-When you switch on the button placed on the mop our robot activates and is now ready to take commands from the user. The user can simply command our device to move forward, backward, left and right by simply pressing the required buttons shown in the app. Our robot then send these commands to the microcontroller - Arduino UNO using bluetooth communication via HC-05 bluetooth module. There's also a water pump and water reservoir to throw water on the floor and make the mops moist for a proper clean. The robot is powered on a 21V Li ion battery, the ideal voltage for all motors used here.. The driver motor pair are 100rpm ones while for the mops we have used 75rpm plastic ones.
+When you switch on the button placed on the mop our robot activates and is now ready to take commands from the user. The user can simply command 
+our device to move forward, backward, left and right by simply pressing the required buttons shown in the app. Our robot then send these commands 
+to the microcontroller - Arduino UNO using bluetooth communication via HC-05 bluetooth module. There's also a water pump and water reservoir to 
+throw water on the floor and make the mops moist for a proper clean. The robot is powered on a 21V Li ion battery, the ideal voltage for all motors 
+used here.. The driver motor pair are 100rpm ones while for the mops we have used 75rpm plastic ones.
 
 
 
